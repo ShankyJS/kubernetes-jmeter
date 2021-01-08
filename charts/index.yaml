@@ -12,7 +12,7 @@ entries:
       name: Jhan Silva
     name: jmeter
     sources:
-    - https://github.com/kaarolch/kubernetes-jmeter
+    - https://github.com/shankyjs/kubernetes-jmeter
     urls:
     - https://shankyjs.github.io/kubernetes-jmeter/charts/jmeter-0.1.0.tgz
     version: 0.1.0
